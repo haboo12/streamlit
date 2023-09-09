@@ -2,8 +2,7 @@ import streamlit as st
 st.title(":star: NewJeans Photo Album :star:")
 st.subheader("**뉴진스 사진첩**")
 
-image_path = 'Nj_GetUp_8.jpg'
-st.image(image_path, caption='뉴진스 단체사진')
+st.image('Nj_GetUp_8.jpg', caption='뉴진스 단체사진')
 
 st.image('NJ_GetUp_10.jpg', caption='super shy 하니')
 
