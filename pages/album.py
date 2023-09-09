@@ -1,5 +1,5 @@
 import streamlit as st
-st.title(":star: NewJeans Photo Album :star:")
+st.title(":star: NewJeans Photo Album")
 st.subheader("**뉴진스 사진첩**")
 
 st.image('NJ_GetUp_8.jpg', caption='뉴진스 단체사진')
