@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title(':star: NewJeans Music Playlist :star:')
+st.title(':star: NewJeans Music Playlist')
 st.header('뉴진스 뮤직 플리')
 music = ["OMG", "Ditto", "Attention", "Hype Boy", "Cookie", "Hurt"]
 a = st.text_input('**찾고 싶은 뉴진스 노래를 입력하세요** : ', 'ex : OMG')
