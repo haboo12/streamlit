@@ -24,7 +24,4 @@ st.image('NJ_danni2.jpg', caption='다니엘')
 st.image('NJ_hanni1.jpg', caption='팜하니')
 st.image('NJ_minji1.jpg', caption='김민지')
 st.image('NJ_minji2.jpg', caption='김민지')
-st.image('NJ_harine1.jpg', caption='강해린')
-st.image('NJ_harine2.jpg', caption='강해린')
-st.image('NJ_hyein1.jpg', caption='이혜인')
-st.image('NJ_hyein2.jpg', caption='이혜인')
+
