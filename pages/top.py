@@ -4,7 +4,7 @@ import numpy as np
 
 
 
-st.title('NewJeans music chart')
+st.title(':star: NewJeans music chart')
 
 
 
